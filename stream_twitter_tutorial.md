@@ -373,6 +373,6 @@ Conclusion
 ----------
 Congratulations, you've reached the end of this tutorial. This article showed you how easy it is to build scalable newsfeeds with Django and GetStream.io. It took us just 100 LoC and (I hope) less than one hour to get this far.
 
-You can find the code from this tutorial and the fully functional application on [GitHub](https://github.com/GetStream/django_twitter). I hope you found this interesting and useful and I'd be glad to answer all of your questions.
+You can find the code from this tutorial and the fully functional application on [GitHub](https://github.com/GetStream/django_twitter). The same application is also available online [here](http://tw.getstream.io/). I hope you found this interesting and useful and I'd be glad to answer all of your questions.
 
 If you're new to Django or GetStream.io, I highly recommend the [official django tutorial](https://docs.Djangoproject.com/en/1.7/intro/install/) and the [getstream.io getting started](https://getstream.io/get_started/#intro).
