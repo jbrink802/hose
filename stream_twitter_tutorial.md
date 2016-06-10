@@ -36,12 +36,12 @@ To enable stream_django you need to add it to your INSTALLED_APPS:
 
 ```python
 INSTALLED_APPS = (
-    'Django.contrib.admin',
-    'Django.contrib.auth',
-    'Django.contrib.contenttypes',
-    'Django.contrib.sessions',
-    'Django.contrib.messages',
-    'Django.contrib.staticfiles',
+    'django.contrib.admin',
+    'django.contrib.auth',
+    'django.contrib.contenttypes',
+    'django.contrib.sessions',
+    'django.contrib.messages',
+    'django.contrib.staticfiles',
     'stream_twitter',
     'stream_django'
 )
